@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bhanu 👋
 
-<!--
-**bhanuu07/bhanuu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Developer
+I'm an engineering student passionate about coding, problem solving, and building real-world projects.  
+Currently focused on improving my skills in Java, DSA, and Backend Development.
+---
+## 💻 Tech Stack
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+- HTML & CSS
+- SQL (Basics)
+---
+## 📚 Currently Learning
+- Advanced Java
+- Problem Solving
+- Backend Development
+- DBMS & OOP Concepts
+---
+## 🎯 Goals
+- Become a professional software developer
+- Crack internships and placements
+- Build strong real-world projects
+- Improve consistency every day
+---
+## 🛠️ Projects Coming Soon
+- Java Mini Projects
+- DSA Practice Repository
+- Backend Applications
+- College & Personal Projects
+---
+## 📈 Coding Profiles
+- LeetCode: https://leetcode.com/u/bhanuu09/
+- CodeChef: https://www.codechef.com/users/bhanuu07
+- GitHub
+---
+## ⚡ Fun Fact
+I enjoy gaming, gym workouts, and learning new technologies.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ “Consistency beats motivation.”
